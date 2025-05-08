@@ -26,15 +26,14 @@ const NavbarBanner = () => {
                 </div>
 
                 {
-                    options.map((item, ind) => {
+                    options.map((item, idx) => {
                         return (
-                            <div className="optionNavbarBanner" key={ind}>
+                            <div className="optionNavbarBanner" key={idx}>
                                 <div className="allOptionsNavbarBanner">{item.name}</div>
                             </div>
                         )
                     })
                 }
-
 
             </div>
             <div className="navbarBannerRightSide">
