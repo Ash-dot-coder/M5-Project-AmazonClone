@@ -38,8 +38,8 @@
     overflow-x: auto;
 }
 
-.scrollDiv::-webkit-scrollbar{
-    width: 8px; 
+.scrollDiv::-webkit-scrollbar {
+    width: 8px;
     height: 8px;
 }
 
@@ -55,22 +55,22 @@
     background-color: rgb(247, 247, 247);
 }
 
-.homeDetailLongCardItemImg{
+.homeDetailLongCardItemImg {
     width: 60%;
 }
 
-.homeDetailLongCardItemImgDetail{
+.homeDetailLongCardItemImgDetail {
     display: flex;
     flex-direction: column;
     width: 100%;
 }
 
-.homeDetailLongCardItemImgTopDetail{
+.homeDetailLongCardItemImgTopDetail {
     display: flex;
     gap: 5px;
 }
 
-.homeDetailPercentageOff{
+.homeDetailPercentageOff {
     padding: 4px 6px;
     background-color: #cc0c39;
     font-size: 12px;
@@ -79,13 +79,13 @@
     color: #ffffff;
 }
 
-.limitedTimeDealHomeDetail{
+.limitedTimeDealHomeDetail {
     font-size: 12px;
     display: flex;
     align-items: center;
 }
 
-.bottomHomeDetail{
+.bottomHomeDetail {
     font-size: 12px;
     padding: 2px 0;
 }
