@@ -1,6 +1,7 @@
 import React from 'react'
 import './NavbarBanner.css';
 import MenuOutlinedIcon from '@mui/icons-material/MenuOutlined';
+import { Link } from 'react-router-dom';
 
 const NavbarBanner = () => {
     const options = [
@@ -28,9 +29,9 @@ const NavbarBanner = () => {
                 {
                     options.map((item, idx) => {
                         return (
-                            <div className="optionNavbarBanner" key={idx}>
+                            <Link to={'/products'} className="optionNavbarBanner" key={idx}>
                                 <div className="allOptionsNavbarBanner">{item.name}</div>
-                            </div>
+                            </Link>
                         )
                     })
                 }

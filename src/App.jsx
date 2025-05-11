@@ -3,6 +3,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import Navbar from './Component/Navbar/Navbar'
 import HomeScreen from './Screen/Home/HomeScreen'
+import { Route, Routes } from 'react-router-dom'
+import Products from './Screen/Products/Products'
 
 function App() {
 
@@ -10,7 +12,11 @@ function App() {
     <>
       <div className="App">
         <Navbar />
-        <HomeScreen />
+        <Routes>
+          <Route path='/' element={<HomeScreen />} />
+          <Route path='/products' element={<Products />} />
+        </Routes>
+
       </div>
     </>
   )
