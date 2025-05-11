@@ -1,0 +1,30 @@
+.footer {
+    color: #fff;
+    background-color: #232f3e;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.amzonImg{
+    margin-top: 40px;
+}
+.amazonImgFooter{
+    width: 110px;
+}
+
+.footerContent{
+    display: flex;
+    justify-content:space-between;
+    width: 70%;
+} .contentFooterTitle{
+    font-weight: 600;
+} .contentFooterSubTitleDiv{
+    margin-top: 10px;
+    font-size: 14px;
+} .contentFooterSubTitleCont{
+    margin-bottom: 15px;
+}
+
+ 
