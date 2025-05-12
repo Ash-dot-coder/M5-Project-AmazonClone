@@ -5,6 +5,8 @@ import Navbar from './Component/Navbar/Navbar'
 import HomeScreen from './Screen/Home/HomeScreen'
 import { Route, Routes } from 'react-router-dom'
 import Products from './Screen/Products/Products'
+import Footer from './Component/Footer/Footer'
+
 
 function App() {
 
@@ -16,7 +18,7 @@ function App() {
           <Route path='/' element={<HomeScreen />} />
           <Route path='/products' element={<Products />} />
         </Routes>
-
+        <Footer />
       </div>
     </>
   )
