@@ -2,39 +2,188 @@
     "product": [
         
         {
-            "id": "2",
-            "name": "boAt Airdopes 141 Bluetooth TWS Earbuds with 42H Playtime,Low Latency Mode for Gaming, ENx Tech, IWP, IPX4 Water Resistanc...",
-            "price": 1299,
+            "id": "1",
+            "name": "[Smartchoice] HP OMEN Gaming Laptop, AMD Ryzen 7 7840HS, 8GB RTX 4060 GPU, 16.1' (40.9cm), FHD, IPS, 165 Hz, 300 nits, 16GB DDR5...",
+            "price": 109999,
             "quantity": 1,
-            "imageUrl": "https://m.media-amazon.com/images/I/61KNJav3S9L._AC_UL480_QL65_.jpg"
+            "imageUrl": "https://m.media-amazon.com/images/I/713iwpnTH5L._SX679_.jpg"
+        },
+        {
+            "id": "2",
+            "name": "MSI Thin 15, Intel Core i5-13420H, 40CM FHD 144Hz Gaming Laptop(8GB/512GB NVMe SSD/Windows 11 Home/NVIDIA GeForce RTX 2050,GDDR6 ...",
+            "price": 62990,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71VG3azYMjL._SX679_.jpg"
         },
         {
             "id": "3",
-            "name": "boAt Immortal 121 in Ear TWS Earbuds with Beast Mode(40ms Low Latency) for Gaming, 40H Playtime, Blazing LEDs, Quad Mics...",
-            "price": 999,
+            "name": "HP OMEN, AMD Ryzen 7-7840HS, 8GB NVIDIA GeForce RTX 4060 Gaming Laptop (32GB RAM, 1TB SSD), 165Hz, 7ms, IPS, 16.1'/40.9cm, Win 11...",
+            "price": 119990,
             "quantity": 1,
-            "imageUrl": "https://m.media-amazon.com/images/I/61q-2yzbBtL._AC_UL480_QL65_.jpg"
+            "imageUrl": "https://m.media-amazon.com/images/I/710qDL9V5RL._SX679_.jpg"
         },
         {
             "id": "4",
-            "name": "Iphone 121 in Ear TWS Earbuds with Beast Mode(40ms Low Latency) for Gaming, 40H Playtime, Blazing LEDs, Quad Mics ENx Sign...",
-            "price": 79999,
+            "name": "ASUS TUF Gaming A15, 15.6' (39.62cm) FHD 16:9 144Hz, AMD Ryzen 7 7435HS, Gaming Laptop (16 DDR5/512GB SSD/NVIDIA GeForce RTX ...",
+            "price": 62990,
             "quantity": 1,
-            "imageUrl": "https://m.media-amazon.com/images/I/71v2jVh6nIL._AC_UY327_FMwebp_QL65_.jpg"
+            "imageUrl": "https://m.media-amazon.com/images/I/61xBASwU+zL._SX679_.jpg"
         },
         {
             "id": "5",
+            "name": "Portronics Adapto 12 2.4A 12W Fast Wall Charger for iPhone 11/Xs/XS Max/XR/X/8/7/6/Plus, iPad Pro/Air 2/Mini 3/Mini 4, Samsung ...",
+            "price": 169,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51w9roMijiL._SX679_.jpg"
+        },
+        {
+            "id": "6",
+            "name": "BenQ GW2490 24 Inches 1920X1080P FHD IPS Monitor| 100Hz|99% Srgb|Eye-Careu|Dual HDMI|Display Port|Bezel ...",
+            "price": 8250,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/41ycVvamNCL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": "7",
+            "name": "Kreo Owl Full HD 1080P 60 FPS Webcam with Auto-Focus and Built-in Dual Digital Mic, Plug and Play Setup ...",
+            "price": 3799,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/41pfwVMaJDL._SX300_SY300_QL70_FMwebp_.jpg"
+        },
+        {
+            "id": "8",
+            "name": "HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H, 4GB RTX 3050 GPU, 15.6-inch (39.6 cm) FHD IPS 144Hz, 16GB DDR4, 512GB...",
+            "price": 67999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/710ZcpHUpkL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "9",
+            "name": "amazon basics Back Case Cover for Nothing Phone (3a) Pro | Compatible for Nothing Phone (3a) Pro Back Cover | Case Cover with ...",
+            "price": 279,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/81YZyVnVfNL._SX679_.jpg"
+        },
+        {
+            "id": "10",
+            "name": "iQOO Z9 Lite 5G (Mocha Brown, 4GB RAM, 128GB Storage) | Dimensity 6300 5G | 50MP Sony AI Camera | Charger in The Box",
+            "price": 10499,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/619VJYWIbXL._SX679_.jpg"
+        },
+        {
+            "id": "11",
+            "name": "Redmi 13 5G, Orchid Pink, 6GB+128GB | India Debut SD 4 Gen 2 AE | 108MP Pro Grade Camera | 6.79in Largest Display in Segment",
+            "price": 12500,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/81Q9jpYOFdL._SX679_.jpg"
+        },
+        {
+            "id": "12",
+            "name": "TEKCOOL Mini Cooler for Room Cooling AC Portable Mini Fan Artic Cooler with 7 Colors LED Light, 1/2/3 H Timer, 3 Wind Speeds ...",
+            "price": 749,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61sTL8xtw7L._SX569_.jpg"
+        },
+        {
+            "id": "13",
             "name": "Xiaomi Pad 6| Qualcomm Snapdragon 870| Powered by HyperOS | 144Hz Refresh Rate| 6GB, 128GB| 2.8K+ Display ...",
             "price": 24999,
             "quantity": 1,
             "imageUrl": "https://m.media-amazon.com/images/I/71LRY1j6UHL._AC_UY327_FMwebp_QL65_.jpg"
         },
         {
-            "id": "1",
-            "name": "HP Victus Gaming Laptop, 12th Gen Intel Core i5-12450H, 4GB RTX 3050 GPU, 15.6-inch (39.6 cm) FHD IPS 144Hz, 16GB DDR4, 512GB...",
-            "price": 67999,
+            "id": "14",
+            "name": "iPhone 16 128 GB: 5G Mobile Phone with Camera Control, A18 Chip and a Big Boost in Battery Life. Works with AirPods; Teal",
+            "price": 132990,
             "quantity": 1,
-            "imageUrl": "https://m.media-amazon.com/images/I/710ZcpHUpkL._AC_UL480_FMwebp_QL65_.jpg"
+            "imageUrl": "https://m.media-amazon.com/images/I/61eYPkT2zZL._SX679_.jpg"
+        },
+        {
+            "id": "15",
+            "name": "boAt Immortal 121 in Ear TWS Earbuds with Beast Mode(40ms Low Latency) for Gaming, 40H Playtime, Blazing LEDs, Quad Mics...",
+            "price": 999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61q-2yzbBtL._AC_UL480_QL65_.jpg"
+        },
+        {
+            "id": "16",
+            "name": "boAt Airdopes 141 Bluetooth TWS Earbuds with 42H Playtime,Low Latency Mode for Gaming, ENx Tech, IWP, IPX4 Water Resistanc...",
+            "price": 1299,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61KNJav3S9L._AC_UL480_QL65_.jpg"
+        },
+        {
+            "id": "17",
+            "name": "CMF BY NOTHING Phone 1 5G (128 GB) (8 GB RAM) (Black)",
+            "price": 15446,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61kKYxkEZYL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "18",
+            "name": "Google Pixel 9 (Wintergreen, 256 GB) (12 GB RAM)",
+            "price": 74999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/5129OHu-1XL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "19",
+            "name": "OnePlus 13 | Smarter with OnePlus AI (12GB RAM, 256GB Storage Midnight Ocean)",
+            "price": 69999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/71N4hshhfNL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "20",
+            "name": "Google Pixel 9 (Porcelain, 256 GB) (12 GB RAM)",
+            "price": 74999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51xiDpq5ODL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "21",
+            "name": "Samsung Galaxy S24 Ultra 5G AI Smartphone (Titanium Gray, 12GB, 256GB Storage)",
+            "price": 85200,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/717Q2swzhBL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "22",
+            "name": "Nothing Phone (2a) 5G (Black, 8GB RAM, 256GB Storage) | 6.7' AMOLED Display | 50MP (OIS) + 50 MP | 32 MP Front | Mediatek ...",
+            "price": 20999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/4172-I2V+AL._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "23",
+            "name": "OnePlus Nord 4 5G (Obsidian Midnight, 8GB RAM, 256GB Storage)",
+            "price": 29999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61NbiB1GU-L._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "24",
+            "name": "OnePlus 12 (Flowy Emerald, 12GB RAM, 256GB Storage)",
+            "price": 51998,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/717Qo4MH97L._AC_UL480_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "25",
+            "name": "65W Super Fast Charger Adapter for CMF Phone 1/Nothing Phone 2A/ 2a Plus/ 2/Buds, 65w GaN Power Charger Adapter for Mobile...)",
+            "price": 999,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/51XQCbluWVL._AC_UY327_FMwebp_QL65_.jpg"
+        },
+        {
+            "id": "26",
+            "name": "OnePlus 13R | Smarter with OnePlus AI (12GB RAM, 256GB Storage Astral Trail)",
+            "price": 42998,
+            "quantity": 1,
+            "imageUrl": "https://m.media-amazon.com/images/I/61++T836jiL._AC_UY327_FMwebp_QL65_.jpg"
         }
+        
+        
     ]
 }

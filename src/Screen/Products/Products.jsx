@@ -3,8 +3,23 @@ import './Products.css'
 import StarOutlinedIcon from '@mui/icons-material/StarOutlined';
 import StarOutlineOutlinedIcon from '@mui/icons-material/StarOutlineOutlined';
 import productDetail from './Products.json';
+import { useSelector, useDispatch } from 'react-redux';
+import { addToCart } from '../../Redux/Actions/Actions';
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 const Products = () => {
+
+    const dispatch = useDispatch();
+    const cartItems = useSelector((state) => state.cart.items);
+    const handleAddToCart = (item) => {
+        toast.success("Added To Cart", {
+            position: 'bottom-right'
+        })
+        
+        dispatch(addToCart(item));
+    }
+
     return (
         <div className='productPage'>
             <div className="productTopBanner">
@@ -114,7 +129,7 @@ const Products = () => {
                                             <div className="priceProductDetailPage">
                                                 <div className="currencyText">₹</div>
                                                 <div className="rateHomeDetail">{item.price}</div>
-                                                <div className="addToBasketBtn">Add To Cart</div>
+                                                <div className="addToBasketBtn" onClick={() => { handleAddToCart(item) }}>Add To Cart</div>
                                             </div>
                                             <div className="offProductPage">Upto 10% off on select cards</div>
                                             <div className="freeDeliveryHomePage">Free Delivery By Amazon</div>
@@ -128,6 +143,8 @@ const Products = () => {
                     </div>
                 </div>
             </div>
+
+            <ToastContainer />
         </div>
     )
 }
